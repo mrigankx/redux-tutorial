@@ -6,4 +6,4 @@ Third, we have consumers, it will consume the data from store.
 Flow is like,
 component(dispatched)====> actions===> reducer(single)===> rootreducer ===>store
 
-we use useSelector to get the data from store, and useDispatch to send the data to store.
+We use useSelector to get the data from store, and useDispatch to send the data to store.
